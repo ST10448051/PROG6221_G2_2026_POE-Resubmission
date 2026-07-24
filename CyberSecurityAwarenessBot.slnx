@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CyberSecurityAwarenessBot.GUI/CyberSecurityAwarenessBot.GUI.csproj" />
+  <Project Path="CyberSecurityAwarenessBot/CyberSecurityAwarenessBot.csproj" />
+</Solution>
