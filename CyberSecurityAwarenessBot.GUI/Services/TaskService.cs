@@ -67,9 +67,20 @@ namespace CyberSecurityAwarenessBot.GUI.Services
             command.ExecuteNonQuery();
         }
 
-        internal void DeleteTask(int id)
+        public void DeleteTask(int id)
         {
-            throw new NotImplementedException();
+            using var connection = database.GetConnection();
+
+            connection.Open();
+
+            string sql = "DELETE FROM Tasks WHERE Id = @Id";
+
+            using var command = new MySqlCommand(sql, connection);
+
+            command.Parameters.AddWithValue("@Id", id);
+
+            command.ExecuteNonQuery();
         }
+
     }
 }

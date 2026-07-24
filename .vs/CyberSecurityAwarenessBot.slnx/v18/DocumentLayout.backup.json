@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
               "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T13:21:16.727Z",
               "EditorCaption": ""
@@ -79,9 +79,9 @@
               "Title": "TaskWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs*",
-              "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
+              "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T13:19:29.105Z",
               "EditorCaption": ""
@@ -108,8 +108,7 @@
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Services\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T14:15:08.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T14:15:08.633Z"
             },
             {
               "$type": "Document",
@@ -121,8 +120,7 @@
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T13:58:40.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T13:58:40.85Z"
             },
             {
               "$type": "Document",
@@ -134,8 +132,7 @@
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Services\\ActivityLogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T13:54:27.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T13:54:27.259Z"
             },
             {
               "$type": "Document",

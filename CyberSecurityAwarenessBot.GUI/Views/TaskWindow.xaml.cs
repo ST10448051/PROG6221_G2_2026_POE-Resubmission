@@ -13,6 +13,7 @@ namespace CyberSecurityAwarenessBot.GUI.Views
             InitializeComponent();
 
             AddTaskButton.Click += AddTaskButton_Click;
+            DeleteTaskButton.Click += DeleteTaskButton_Click;
 
             RefreshGrid();
         }
@@ -39,12 +40,26 @@ namespace CyberSecurityAwarenessBot.GUI.Views
             DescriptionBox.Clear();
         }
 
+        private void DeleteTaskButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (TaskGrid.SelectedItem == null)
+            {
+                MessageBox.Show("Please select a task.");
+                return;
+            }
+
+            TaskItem task = (TaskItem)TaskGrid.SelectedItem;
+
+            taskService.DeleteTask(task.Id);
+
+            RefreshGrid();
+        }
+
         private void RefreshGrid()
         {
             TaskGrid.ItemsSource = null;
             TaskGrid.ItemsSource = taskService.GetTasks();
         }
-
 
     }
 }

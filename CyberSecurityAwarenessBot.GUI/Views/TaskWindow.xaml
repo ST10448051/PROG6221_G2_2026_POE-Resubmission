@@ -40,6 +40,13 @@
                   Grid.Row="4"
                   AutoGenerateColumns="True"/>
 
+        <Button Name="DeleteTaskButton"
+        Content="Delete Selected"
+        Width="147"
+        Margin="170,153,0,10"
+        HorizontalAlignment="Left"
+        Grid.Row="3"/>
+
     </Grid>
 
 </Window>
