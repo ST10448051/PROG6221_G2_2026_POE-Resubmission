@@ -28,7 +28,7 @@
         <TextBox Name="DescriptionBox"
                  Grid.Row="3"
                  AcceptsReturn="True"
-                 Margin="0,5,0,53"/>
+                 Margin="0,29,0,53"/>
 
         <Button Name="AddTaskButton"
         Content="Add Task"

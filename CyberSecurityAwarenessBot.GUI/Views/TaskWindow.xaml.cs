@@ -44,5 +44,7 @@ namespace CyberSecurityAwarenessBot.GUI.Views
             TaskGrid.ItemsSource = null;
             TaskGrid.ItemsSource = taskService.GetTasks();
         }
+
+
     }
 }

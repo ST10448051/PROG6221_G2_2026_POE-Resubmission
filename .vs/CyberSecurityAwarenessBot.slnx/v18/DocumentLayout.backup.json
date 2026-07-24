@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\views\\taskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\views\\taskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\views\\taskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\views\\taskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\views\\quizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|solutionrelative:cybersecurityawarenessbot.gui\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3DE2F4D-3BB1-8B73-236D-00105CA03BC2}|CyberSecurityAwarenessBot.GUI\\CyberSecurityAwarenessBot.GUI.csproj|c:\\users\\emeris\\downloads\\prog6221-g2-2026-poe-st10448051-master\\prog6221-g2-2026-poe-st10448051-master\\cybersecurityawarenessbot.gui\\models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,12 +61,46 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
+              "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:21:16.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs*",
+              "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:19:29.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml",
+              "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml",
+              "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Views\\TaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-24T13:15:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Services\\DatabaseService.cs",
@@ -75,11 +121,12 @@
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T13:58:40.85Z"
+              "WhenOpened": "2026-07-20T13:58:40.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ActivityLogService.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\ActivityLogService.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Services\\ActivityLogService.cs",
@@ -87,11 +134,12 @@
               "RelativeToolTip": "CyberSecurityAwarenessBot.GUI\\Services\\ActivityLogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T13:54:27.259Z"
+              "WhenOpened": "2026-07-20T13:54:27.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ActivityLogWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\ActivityLogWindow.xaml.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\ActivityLogWindow.xaml.cs",
@@ -103,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ActivityLogWindow.xaml",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\ActivityLogWindow.xaml",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\ActivityLogWindow.xaml",
@@ -114,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "QuizQuestion.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Models\\QuizQuestion.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Models\\QuizQuestion.cs",
@@ -126,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QuizService.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Services\\QuizService.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Services\\QuizService.cs",
@@ -138,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "QuizWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\Downloads\\prog6221-g2-2026-poe-ST10448051-master\\prog6221-g2-2026-poe-ST10448051-master\\CyberSecurityAwarenessBot.GUI\\Views\\QuizWindow.xaml.cs",
               "RelativeDocumentMoniker": "CyberSecurityAwarenessBot.GUI\\Views\\QuizWindow.xaml.cs",

@@ -6,18 +6,16 @@ namespace CyberSecurityAwarenessBot.GUI.Services
     public class TaskService
     {
         private readonly DatabaseService database = new();
-        private List<TaskItem> tasks;
 
         public void AddTask(TaskItem task)
         {
             using var connection = database.GetConnection();
-
             connection.Open();
 
             string sql = @"INSERT INTO Tasks
-                   (Title, Description, ReminderDate, Completed)
-                   VALUES
-                   (@Title,@Description,@ReminderDate,@Completed)";
+                           (Title, Description, ReminderDate, Completed)
+                           VALUES
+                           (@Title, @Description, @ReminderDate, @Completed)";
 
             using var command = new MySqlCommand(sql, connection);
 
@@ -31,17 +29,47 @@ namespace CyberSecurityAwarenessBot.GUI.Services
 
         public List<TaskItem> GetTasks()
         {
+            List<TaskItem> tasks = new();
+
+            using var connection = database.GetConnection();
+            connection.Open();
+
+            string sql = "SELECT * FROM Tasks";
+
+            using var command = new MySqlCommand(sql, connection);
+            using var reader = command.ExecuteReader();
+
+            while (reader.Read())
+            {
+                tasks.Add(new TaskItem
+                {
+                    Id = reader.GetInt32("Id"),
+                    Title = reader.GetString("Title"),
+                    Description = reader.GetString("Description"),
+                    ReminderDate = reader.GetDateTime("ReminderDate"),
+                    Completed = reader.GetBoolean("Completed")
+                });
+            }
+
             return tasks;
         }
 
         public void CompleteTask(int id)
         {
-            TaskItem? task = tasks.FirstOrDefault(t => t.Id == id);
+            using var connection = database.GetConnection();
+            connection.Open();
 
-            if (task != null)
-            {
-                task.Completed = true;
-            }
+            string sql = "UPDATE Tasks SET Completed = 1 WHERE Id = @Id";
+
+            using var command = new MySqlCommand(sql, connection);
+            command.Parameters.AddWithValue("@Id", id);
+
+            command.ExecuteNonQuery();
+        }
+
+        internal void DeleteTask(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }
