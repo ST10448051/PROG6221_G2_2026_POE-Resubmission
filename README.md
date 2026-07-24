@@ -161,7 +161,7 @@ CyberSecurityAwarenessBot/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CyberSecurityAwarenessBot.git
+git clone https://github.com/ST10448051/PROG6221_G2_2026_POE-Resubmission.git
 ```
 
 ---
@@ -264,25 +264,26 @@ using a MySQL database.
 
 ## Main Window
 
-> *(Insert screenshot here)*
+<img width="1330" height="843" alt="image" src="https://github.com/user-attachments/assets/75618f57-b0c1-4841-b902-c5d74f0ee603" />
+
 
 ---
 
 ## Task Manager
 
-> *(Insert screenshot here)*
+<img width="1251" height="917" alt="image" src="https://github.com/user-attachments/assets/a3c4511d-a12f-4f9a-bbac-596b7c89f47f" />
 
 ---
 
 ## Quiz
 
-> *(Insert screenshot here)*
+<img width="1326" height="916" alt="image" src="https://github.com/user-attachments/assets/e39ea639-1be9-4e18-9069-9bfaa67e4946" />
 
 ---
 
 ## Activity Log
 
-> *(Insert screenshot here)*
+<img width="877" height="547" alt="image" src="https://github.com/user-attachments/assets/49193d02-6371-4860-8934-2c8e3b768626" />
 
 ---
 
